@@ -1,0 +1,46 @@
+                              GAME ELEMENTS
+
+There are many game elements in a game:-
+1) Characters(PC, NPC)
+2) Story
+3) Goal
+4) Rules
+5) Balance
+6) Adaptivity
+7) Chance vs Skill
+8) Feedback
+
+*) Game Elements of PacMan are as follows:-
+1) Characters(PC, NPC)
+    PC =  The PacMan.
+    NPC =  The Ghost, Powerhouse, Dots, Blocks.
+
+2) Story = The pacman should eat all the dots and 
+powerhouse. When it eats powerhouse the ghost become
+freeze and pacman can eat them. There is cherries as 
+well for pacman to eat.
+
+3) Goal = Pacman should eat all the dots in oder to win 
+the game.
+
+4) Rules
+ 
+5) Balance = The game become difficult as Pacman 
+cannot eat all the dots in the game and ghost eat 
+pacman. 
+The game become easy if pacman eat powerhouse and 
+ghost become freeze and pacman and eat it and gain 
+points.
+
+6) Adaptivity = If the pacman has not eaten all the dots 
+then remaining dots gets spread out which makes 
+more difficult for pacman to eat the dots.
+
+7) Chance vs Skill = The ghost can move in any direction
+is a chance.
+You need to direct the Pacman to eat dots and 
+powerhouse in order to win game and eat ghost is Skill.
+
+8) Feedback = When pacman eats all the powerhouses 
+and dots, there is visual feedback(points) and audio 
+feedback(sound) in the game.
